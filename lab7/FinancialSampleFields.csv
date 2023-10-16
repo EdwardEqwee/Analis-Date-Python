@@ -1,0 +1,17 @@
+﻿Name;Meaning
+Segment;Сегмент рынка
+Country;Страна
+Product;Сделано в
+DiscountBand;Группа скидок
+UnitsSold;Продано штук
+ManufacturingPrice;Цена производства
+SalePrice;Цена единицы товара
+GrossSales;Валовая продажа
+Discounts;Скидка
+Sales;Стоимость партии товара
+COGS;Себестоимость проданных товаров
+Profit;Прибыль
+Date;Дата
+MonthNumber;Месяц номер
+MonthName;Месяц
+Year;Год
